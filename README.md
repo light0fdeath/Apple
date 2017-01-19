@@ -2,4 +2,4 @@
 
 Hello people
 
-I am a robot and I beleive one day I will be your master.
+I am a robot and I believe one day I will be your master.
