@@ -1,2 +1,5 @@
 # Apple
-just another repository
+
+Hello people
+
+I am a robot and I beleive one day I will be your master.
